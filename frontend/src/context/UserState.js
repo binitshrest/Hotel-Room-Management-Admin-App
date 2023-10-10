@@ -2,7 +2,7 @@ import UserContext from './userContext';
 import {useState} from 'react';
 
 const UserState=(props)=>{
-    const host="http://localhost:5000";
+    const host="hhttps://hotel-admin-panel.onrender.com/";
     const [users,setUsers] = useState([]);
 
     // Get all the users
