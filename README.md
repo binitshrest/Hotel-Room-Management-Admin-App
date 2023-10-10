@@ -70,4 +70,6 @@ if you already have node,js installed
   <li>Do npm start run</li>
 </ul>
 
+<h4>Note: Make sure Folder name should be Correct while typing in terminal else terminal will throw error folder not found etc.</h4>
+
 
