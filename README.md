@@ -35,7 +35,6 @@
         <li>Filter by start time and end time </li>
       </ol>
   </li>
-</li>
   
 </li>
 
