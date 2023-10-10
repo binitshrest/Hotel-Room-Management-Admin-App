@@ -3,5 +3,5 @@
 
 <h3>User Stories</h3>
 
-*As per requirement, I can have Hotel  multiple rooms of multiple types 
+<li>As per requirement, I can have Hotel  multiple rooms of multiple types</li>
 
