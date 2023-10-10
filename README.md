@@ -11,5 +11,9 @@
          <li>Room type C: 50 Rs per hour<li>
         </ol>
   </li>
+  <li>As per requirement, Icreated a Page where the admin can book the room which takes the user’s email, room number, start time, and end time and books the room accordingly
+      The Price of the booking should update as soon as the user updates any one of the room           number, start time or end time.
+      No two bookings should have overlapping start and end time for the same room. </li>
+</li>
 
 </ul>
