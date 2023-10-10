@@ -57,5 +57,17 @@
   <li>react</li>
 </ul>
 
+<h3>Install Dependencies and Run</h3>
+if you already have node,js installed
+<ul>
+  <li>Go to terminal: Copy the path of your existing project</li>
+  <li>After opening the path in terminal.</li>
+  <li>For Running backend:</li>
+  <li>Go to or cd Backend folder, npm install</li>
+  <li>For Running FrontEnd:</li>
+  <li>Go to or Do cd.. if your are in backend folder in terminal</li>
+  <li>and then cd frontend to enter the path</li>
+  <li>Do npm start run</li>
+</ul>
 
 
