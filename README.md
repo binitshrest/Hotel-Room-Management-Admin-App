@@ -37,7 +37,10 @@
   </li>
 
   <h3>As per requirement: Good to have is also implemented</h3>
-  
+    <ul>
+      <li>Validate Date and time</li>
+      <li>Partial Responsive designs</li>
+    </ul>
 </li>
 
 </ul>
