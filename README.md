@@ -42,5 +42,9 @@
       <li>Partial Responsive designs</li>
     </ul>
 </li>
-
 </ul>
+<h3>Get Started</h3>
+ Please refer to this video link to connect mongodb database to node.js application
+ https://www.youtube.com/watch?v=bhiEJW5poHU
+
+
