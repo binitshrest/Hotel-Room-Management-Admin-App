@@ -19,7 +19,7 @@
     <li>
       <strong>Edit: </strong>As per requirement, Allow admin to edit any variables like user email, room number,start time, end time and correspondingly take confirmation on updated price.
     </li>
-  <li>
+  <li>As per requirement, I have implemented below features
     <strong>Delete</strong>: Allow admin to cancel any future booking with the following conditions:
     <ol>
     <li>If the booking start time is more than 48 hrs, Show a complete refund on UI</li>
