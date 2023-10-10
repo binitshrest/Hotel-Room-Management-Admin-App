@@ -17,7 +17,7 @@
       No two bookings should have overlapping start and end time for the same room.
   </li>
     <li>
-      <strong>Edit:</strong>As per requirement, Allow admin to edit any variables like user email, room number,start time, end time and correspondingly take confirmation on updated price.
+      <strong>Edit: </strong>As per requirement, Allow admin to edit any variables like user email, room number,start time, end time and correspondingly take confirmation on updated price.
     </li>
 </li>
   
